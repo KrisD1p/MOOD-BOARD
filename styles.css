@@ -1,0 +1,27 @@
+h1, p, div, h2, ul,h3{ 
+    Text-align: center;
+}
+h1{
+    border: SOlid black;
+    color:black;
+    padding:15px 32px;
+    text-align:center;
+    font-size:30px;
+}
+input{
+    display:flex;
+    justify-content:center;
+}
+.chris{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;   
+}
+button{
+    border:dotted black;
+    color: black;
+    padding:15px 32px;
+    text-align:center;
+    font-size:16px;
+}
